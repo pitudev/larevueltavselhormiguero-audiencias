@@ -106,10 +106,19 @@ def get_github_data(github_token, repo_name, file_path):
     try:
         file_content = repo.get_contents(file_path)
         content = file_content.decoded_content.decode('utf-8')
-        return json.loads(content), file_content.sha
+        data = json.loads(content)
+        # Asegurarse de que data sea una lista
+        if not isinstance(data, list):
+            # Si no es una lista, intentar extraer la lista de dailyData
+            if isinstance(data, dict) and "dailyData" in data:
+                data = data["dailyData"]
+            else:
+                # Si no hay estructura reconocible, usar una lista vacía
+                data = []
+        return data, file_content.sha
     except Exception as e:
         print(f"No se encontró el archivo en GitHub o hubo un error: {e}")
-        return {"dailyData": [], "weeklyData": [], "monthlyData": []}, None
+        return [], None
 
 
 def update_github_data(github_token, repo_name, file_path, new_data, sha=None):
@@ -117,7 +126,7 @@ def update_github_data(github_token, repo_name, file_path, new_data, sha=None):
     g = Github(github_token)
     repo = g.get_repo(repo_name)
 
-    json_content = json.dumps(new_data, indent=4, ensure_ascii=False)
+    json_content = json.dumps(new_data, indent=2, ensure_ascii=False)
     commit_message = f"Actualización de datos - {datetime.now().strftime('%Y-%m-%d')}"
 
     try:
@@ -154,7 +163,7 @@ def main():
     current_data, sha = get_github_data(github_token, repo_name, file_path)
 
     # Obtener fechas existentes para evitar duplicados
-    existing_dates = [item["date"] for item in current_data.get("dailyData", [])]
+    existing_dates = [item["date"] for item in current_data if isinstance(item, dict) and "date" in item]
 
     # Generar fechas para escanear
     dates = generate_dates(start_date)
@@ -165,20 +174,13 @@ def main():
         daily_data = scrape_daily_data(url)
 
         if daily_data and daily_data["date"] not in existing_dates:
-            if "dailyData" not in current_data:
-                current_data["dailyData"] = []
-
-            current_data["dailyData"].append(daily_data)
+            current_data.append(daily_data)
             existing_dates.append(daily_data["date"])
             new_records_count += 1
             print(f"Añadido registro de {daily_data['date']}")
 
     # Ordenar por fecha (más reciente primero)
-    if "dailyData" in current_data:
-        current_data["dailyData"].sort(key=lambda x: x["date"], reverse=True)
-
-    # Actualizar el timestamp
-    current_data["lastUpdated"] = datetime.now().isoformat()
+    current_data.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     print(f"Se encontraron {new_records_count} nuevos registros.")
 
