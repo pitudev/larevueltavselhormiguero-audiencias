@@ -1,336 +1,6 @@
 [
   {
-    "date": "2024-09-09",
-    "laRevuelta": {
-      "viewers": 2152000,
-      "share": 17.1
-    },
-    "elHormiguero": {
-      "viewers": 2893000,
-      "share": 23
-    }
-  },
-  {
-    "date": "2024-09-10",
-    "laRevuelta": {
-      "viewers": 2127000,
-      "share": 17.4
-    },
-    "elHormiguero": {
-      "viewers": 2103000,
-      "share": 17.5
-    }
-  },
-  {
-    "date": "2024-09-11",
-    "laRevuelta": {
-      "viewers": 2548000,
-      "share": 19.9
-    },
-    "elHormiguero": {
-      "viewers": 2257000,
-      "share": 18.2
-    }
-  },
-  {
-    "date": "2024-09-12",
-    "laRevuelta": {
-      "viewers": 2601000,
-      "share": 19.2
-    },
-    "elHormiguero": {
-      "viewers": 3107000,
-      "share": 23.3
-    }
-  },
-  {
-    "date": "2024-09-16",
-    "laRevuelta": {
-      "viewers": 2591000,
-      "share": 19.5
-    },
-    "elHormiguero": {
-      "viewers": 2215000,
-      "share": 17
-    }
-  },
-  {
-    "date": "2024-09-17",
-    "laRevuelta": {
-      "viewers": 2155000,
-      "share": 16.8
-    },
-    "elHormiguero": {
-      "viewers": 2075000,
-      "share": 16.6
-    }
-  },
-  {
-    "date": "2024-09-18",
-    "laRevuelta": {
-      "viewers": 2112000,
-      "share": 16.5
-    },
-    "elHormiguero": {
-      "viewers": 2191000,
-      "share": 17.1
-    }
-  },
-  {
-    "date": "2024-09-19",
-    "laRevuelta": {
-      "viewers": 2016000,
-      "share": 15.6
-    },
-    "elHormiguero": {
-      "viewers": 2117000,
-      "share": 16.7
-    }
-  },
-  {
-    "date": "2024-09-23",
-    "laRevuelta": {
-      "viewers": 2158000,
-      "share": 16.3
-    },
-    "elHormiguero": {
-      "viewers": 2373000,
-      "share": 18.1
-    }
-  },
-  {
-    "date": "2024-09-24",
-    "laRevuelta": {
-      "viewers": 2049000,
-      "share": 15.6
-    },
-    "elHormiguero": {
-      "viewers": 1710000,
-      "share": 13.3
-    }
-  },
-  {
-    "date": "2024-09-25",
-    "laRevuelta": {
-      "viewers": 2113000,
-      "share": 16.1
-    },
-    "elHormiguero": {
-      "viewers": 2093000,
-      "share": 16.2
-    }
-  },
-  {
-    "date": "2024-09-26",
-    "laRevuelta": {
-      "viewers": 2065000,
-      "share": 15.9
-    },
-    "elHormiguero": {
-      "viewers": 2069000,
-      "share": 16.3
-    }
-  },
-  {
-    "date": "2024-09-30",
-    "laRevuelta": {
-      "viewers": 2113000,
-      "share": 15.9
-    },
-    "elHormiguero": {
-      "viewers": 2003000,
-      "share": 15.4
-    }
-  },
-  {
-    "date": "2024-10-01",
-    "laRevuelta": {
-      "viewers": 1937000,
-      "share": 14.5
-    },
-    "elHormiguero": {
-      "viewers": 2054000,
-      "share": 15.6
-    }
-  },
-  {
-    "date": "2024-10-02",
-    "laRevuelta": {
-      "viewers": 2355000,
-      "share": 17.7
-    },
-    "elHormiguero": {
-      "viewers": 1756000,
-      "share": 13.6
-    }
-  },
-  {
-    "date": "2024-10-03",
-    "laRevuelta": {
-      "viewers": 1914000,
-      "share": 15
-    },
-    "elHormiguero": {
-      "viewers": 2028000,
-      "share": 16.4
-    }
-  },
-  {
-    "date": "2024-10-07",
-    "laRevuelta": {
-      "viewers": 2122000,
-      "share": 15.8
-    },
-    "elHormiguero": {
-      "viewers": 2029000,
-      "share": 15.5
-    }
-  },
-  {
-    "date": "2024-10-08",
-    "laRevuelta": {
-      "viewers": 1957000,
-      "share": 14.9
-    },
-    "elHormiguero": {
-      "viewers": 1839000,
-      "share": 14.3
-    }
-  },
-  {
-    "date": "2024-10-09",
-    "laRevuelta": {
-      "viewers": 2087000,
-      "share": 16
-    },
-    "elHormiguero": {
-      "viewers": 2036000,
-      "share": 15.8
-    }
-  },
-  {
-    "date": "2024-10-10",
-    "laRevuelta": {
-      "viewers": 2286000,
-      "share": 17.3
-    },
-    "elHormiguero": {
-      "viewers": 2066000,
-      "share": 15.8
-    }
-  },
-  {
-    "date": "2024-10-14",
-    "laRevuelta": {
-      "viewers": 2156000,
-      "share": 16.1
-    },
-    "elHormiguero": {
-      "viewers": 1916000,
-      "share": 14.6
-    }
-  },
-  {
-    "date": "2024-10-15",
-    "laRevuelta": {
-      "viewers": 1746000,
-      "share": 16.3
-    },
-    "elHormiguero": {
-      "viewers": 1975000,
-      "share": 14.7
-    }
-  },
-  {
-    "date": "2024-10-16",
-    "laRevuelta": {
-      "viewers": 2209000,
-      "share": 16.6
-    },
-    "elHormiguero": {
-      "viewers": 1886000,
-      "share": 14.3
-    }
-  },
-  {
-    "date": "2024-10-17",
-    "laRevuelta": {
-      "viewers": 1995000,
-      "share": 15.4
-    },
-    "elHormiguero": {
-      "viewers": 1849000,
-      "share": 14.5
-    }
-  },
-  {
-    "date": "2024-10-21",
-    "laRevuelta": {
-      "viewers": 1996000,
-      "share": 15.2
-    },
-    "elHormiguero": {
-      "viewers": 1821000,
-      "share": 14.1
-    }
-  },
-  {
-    "date": "2024-10-22",
-    "laRevuelta": {
-      "viewers": 1993000,
-      "share": 14.7
-    },
-    "elHormiguero": {
-      "viewers": 1683000,
-      "share": 12.5
-    }
-  },
-  {
-    "date": "2024-10-23",
-    "laRevuelta": {
-      "viewers": 1785000,
-      "share": 13.7
-    },
-    "elHormiguero": {
-      "viewers": 1726000,
-      "share": 13.2
-    }
-  },
-  {
-    "date": "2024-10-24",
-    "laRevuelta": {
-      "viewers": 1927000,
-      "share": 14.5
-    },
-    "elHormiguero": {
-      "viewers": 2014000,
-      "share": 15.5
-    }
-  },
-  {
-    "date": "2024-10-28",
-    "laRevuelta": {
-      "viewers": 2074000,
-      "share": 15.4
-    },
-    "elHormiguero": {
-      "viewers": 1841000,
-      "share": 14.1
-    }
-  },
-  {
-    "date": "2024-10-29",
-    "laRevuelta": {
-      "viewers": 2038000,
-      "share": 15
-    },
-    "elHormiguero": {
-      "viewers": 1806000,
-      "share": 13.6
-    }
-  },
-  {
-    "date": "2024-10-30",
+    "date": "2025-03-19",
     "laRevuelta": {
       "viewers": 0,
       "share": 0
@@ -341,828 +11,36 @@
     }
   },
   {
-    "date": "2024-10-31",
+    "date": "2025-03-18",
     "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 1972000,
-      "share": 16.9
-    }
-  },
-  {
-    "date": "2024-11-04",
-    "laRevuelta": {
-      "viewers": 2060000,
-      "share": 14.2
-    },
-    "elHormiguero": {
-      "viewers": 2708000,
-      "share": 19.2
-    }
-  },
-  {
-    "date": "2024-11-05",
-    "laRevuelta": {
-      "viewers": 1858000,
-      "share": 13.3
-    },
-    "elHormiguero": {
-      "viewers": 1920000,
-      "share": 14
-    }
-  },
-  {
-    "date": "2024-11-06",
-    "laRevuelta": {
-      "viewers": 1981000,
-      "share": 14.9
-    },
-    "elHormiguero": {
-      "viewers": 1665000,
+      "viewers": 1700000,
       "share": 12.6
-    }
-  },
-  {
-    "date": "2024-11-07",
-    "laRevuelta": {
-      "viewers": 1990000,
-      "share": 14.6
     },
     "elHormiguero": {
-      "viewers": 1989000,
-      "share": 14.9
-    }
-  },
-  {
-    "date": "2024-11-11",
-    "laRevuelta": {
-      "viewers": 2000000,
-      "share": 14.6
-    },
-    "elHormiguero": {
-      "viewers": 2375000,
-      "share": 17.9
-    }
-  },
-  {
-    "date": "2024-11-12",
-    "laRevuelta": {
-      "viewers": 2127000,
-      "share": 15.5
-    },
-    "elHormiguero": {
-      "viewers": 1874000,
-      "share": 14
-    }
-  },
-  {
-    "date": "2024-11-13",
-    "laRevuelta": {
-      "viewers": 2152000,
-      "share": 15.8
-    },
-    "elHormiguero": {
-      "viewers": 2225000,
-      "share": 16.4
-    }
-  },
-  {
-    "date": "2024-11-14",
-    "laRevuelta": {
-      "viewers": 1947000,
-      "share": 14.4
-    },
-    "elHormiguero": {
-      "viewers": 1947000,
-      "share": 14.9
-    }
-  },
-  {
-    "date": "2024-11-18",
-    "laRevuelta": {
-      "viewers": 1644000,
-      "share": 16.3
-    },
-    "elHormiguero": {
-      "viewers": 2053000,
-      "share": 15.2
-    }
-  },
-  {
-    "date": "2024-11-19",
-    "laRevuelta": {
-      "viewers": 1863000,
-      "share": 13.8
-    },
-    "elHormiguero": {
-      "viewers": 2224000,
-      "share": 16.8
-    }
-  },
-  {
-    "date": "2024-11-20",
-    "laRevuelta": {
-      "viewers": 1906000,
-      "share": 14.5
-    },
-    "elHormiguero": {
-      "viewers": 2082000,
-      "share": 16
-    }
-  },
-  {
-    "date": "2024-11-21",
-    "laRevuelta": {
-      "viewers": 1778000,
-      "share": 13.6
-    },
-    "elHormiguero": {
-      "viewers": 1973000,
-      "share": 15.5
-    }
-  },
-  {
-    "date": "2024-11-25",
-    "laRevuelta": {
-      "viewers": 2457000,
-      "share": 17.8
-    },
-    "elHormiguero": {
-      "viewers": 2142000,
-      "share": 15.4
-    }
-  },
-  {
-    "date": "2024-11-26",
-    "laRevuelta": {
-      "viewers": 2269000,
-      "share": 16.8
-    },
-    "elHormiguero": {
-      "viewers": 2094000,
-      "share": 16
-    }
-  },
-  {
-    "date": "2024-11-27",
-    "laRevuelta": {
-      "viewers": 2220000,
-      "share": 16.4
-    },
-    "elHormiguero": {
-      "viewers": 1816000,
-      "share": 13.5
-    }
-  },
-  {
-    "date": "2024-11-28",
-    "laRevuelta": {
-      "viewers": 2266000,
-      "share": 16.7
-    },
-    "elHormiguero": {
-      "viewers": 1984000,
-      "share": 15.2
-    }
-  },
-  {
-    "date": "2024-12-02",
-    "laRevuelta": {
-      "viewers": 2289000,
-      "share": 16.7
-    },
-    "elHormiguero": {
-      "viewers": 2032000,
-      "share": 15.2
-    }
-  },
-  {
-    "date": "2024-12-03",
-    "laRevuelta": {
-      "viewers": 1413000,
-      "share": 14.3
-    },
-    "elHormiguero": {
-      "viewers": 2153000,
-      "share": 16.4
-    }
-  },
-  {
-    "date": "2024-12-04",
-    "laRevuelta": {
-      "viewers": 1998000,
-      "share": 14.8
-    },
-    "elHormiguero": {
-      "viewers": 1875000,
-      "share": 13.9
-    }
-  },
-  {
-    "date": "2024-12-05",
-    "laRevuelta": {
-      "viewers": 1605000,
-      "share": 13.2
-    },
-    "elHormiguero": {
-      "viewers": 1743000,
-      "share": 14.6
-    }
-  },
-  {
-    "date": "2024-12-09",
-    "laRevuelta": {
-      "viewers": 2077000,
-      "share": 15.3
-    },
-    "elHormiguero": {
-      "viewers": 1845000,
-      "share": 13.6
-    }
-  },
-  {
-    "date": "2024-12-10",
-    "laRevuelta": {
-      "viewers": 2124000,
-      "share": 15.7
-    },
-    "elHormiguero": {
-      "viewers": 1599000,
-      "share": 11.9
-    }
-  },
-  {
-    "date": "2024-12-11",
-    "laRevuelta": {
-      "viewers": 1979000,
-      "share": 14.8
-    },
-    "elHormiguero": {
-      "viewers": 2157000,
-      "share": 16.1
-    }
-  },
-  {
-    "date": "2024-12-12",
-    "laRevuelta": {
-      "viewers": 2028000,
-      "share": 15.2
-    },
-    "elHormiguero": {
-      "viewers": 2254000,
-      "share": 17
-    }
-  },
-  {
-    "date": "2024-12-16",
-    "laRevuelta": {
-      "viewers": 1957000,
-      "share": 15.2
-    },
-    "elHormiguero": {
-      "viewers": 1969000,
-      "share": 15.3
-    }
-  },
-  {
-    "date": "2024-12-17",
-    "laRevuelta": {
-      "viewers": 2009000,
-      "share": 15.2
-    },
-    "elHormiguero": {
-      "viewers": 2055000,
-      "share": 15.8
-    }
-  },
-  {
-    "date": "2024-12-18",
-    "laRevuelta": {
-      "viewers": 2083000,
-      "share": 16.5
-    },
-    "elHormiguero": {
-      "viewers": 1912000,
-      "share": 15.1
-    }
-  },
-  {
-    "date": "2024-12-19",
-    "laRevuelta": {
-      "viewers": 1929000,
-      "share": 15.1
-    },
-    "elHormiguero": {
-      "viewers": 1960000,
-      "share": 15.4
-    }
-  },
-  {
-    "date": "2024-12-23",
-    "laRevuelta": {
-      "viewers": 1395000,
-      "share": 11.6
-    },
-    "elHormiguero": {
-      "viewers": 1468000,
-      "share": 12.2
-    }
-  },
-  {
-    "date": "2024-12-24",
-    "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 0,
-      "share": 0
-    }
-  },
-  {
-    "date": "2024-12-25",
-    "laRevuelta": {
-      "viewers": 1230000,
-      "share": 10.1
-    },
-    "elHormiguero": {
-      "viewers": 1242000,
-      "share": 10.2
-    }
-  },
-  {
-    "date": "2024-12-26",
-    "laRevuelta": {
-      "viewers": 1139000,
-      "share": 9.4
-    },
-    "elHormiguero": {
-      "viewers": 1251000,
-      "share": 10.3
-    }
-  },
-  {
-    "date": "2024-12-30",
-    "laRevuelta": {
-      "viewers": 1337000,
-      "share": 11.1
-    },
-    "elHormiguero": {
-      "viewers": 1334000,
-      "share": 11
-    }
-  },
-  {
-    "date": "2024-12-31",
-    "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 0,
-      "share": 0
-    }
-  },
-  {
-    "date": "2025-01-01",
-    "laRevuelta": {
-      "viewers": 1324000,
-      "share": 10.4
-    },
-    "elHormiguero": {
-      "viewers": 1234000,
-      "share": 9.8
-    }
-  },
-  {
-    "date": "2025-01-02",
-    "laRevuelta": {
-      "viewers": 1314000,
-      "share": 10.5
-    },
-    "elHormiguero": {
-      "viewers": 1398000,
-      "share": 11.1
-    }
-  },
-  {
-    "date": "2025-01-06",
-    "laRevuelta": {
-      "viewers": 1244000,
-      "share": 9.4
-    },
-    "elHormiguero": {
-      "viewers": 1209000,
-      "share": 9.1
-    }
-  },
-  {
-    "date": "2025-01-07",
-    "laRevuelta": {
-      "viewers": 2387000,
-      "share": 17.4
-    },
-    "elHormiguero": {
-      "viewers": 1810000,
-      "share": 13.2
-    }
-  },
-  {
-    "date": "2025-01-08",
-    "laRevuelta": {
-      "viewers": 1892000,
-      "share": 14.5
-    },
-    "elHormiguero": {
-      "viewers": 1881000,
-      "share": 14.4
-    }
-  },
-  {
-    "date": "2025-01-09",
-    "laRevuelta": {
-      "viewers": 2012000,
-      "share": 15.3
-    },
-    "elHormiguero": {
-      "viewers": 2061000,
-      "share": 15.6
-    }
-  },
-  {
-    "date": "2025-01-13",
-    "laRevuelta": {
-      "viewers": 2157000,
-      "share": 15.5
-    },
-    "elHormiguero": {
-      "viewers": 2284000,
-      "share": 16.4
-    }
-  },
-  {
-    "date": "2025-01-14",
-    "laRevuelta": {
-      "viewers": 2084000,
-      "share": 15.7
-    },
-    "elHormiguero": {
-      "viewers": 1918000,
+      "viewers": 1961000,
       "share": 14.5
     }
   },
   {
-    "date": "2025-01-15",
+    "date": "2025-03-17",
     "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 2070000,
-      "share": 16
-    }
-  },
-  {
-    "date": "2025-01-16",
-    "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 1801000,
-      "share": 13.4
-    }
-  },
-  {
-    "date": "2025-01-20",
-    "laRevuelta": {
-      "viewers": 1924000,
-      "share": 14.1
-    },
-    "elHormiguero": {
-      "viewers": 1914000,
-      "share": 13.9
-    }
-  },
-  {
-    "date": "2025-01-21",
-    "laRevuelta": {
-      "viewers": 1683000,
-      "share": 12.8
-    },
-    "elHormiguero": {
-      "viewers": 1954000,
-      "share": 14.9
-    }
-  },
-  {
-    "date": "2025-01-22",
-    "laRevuelta": {
-      "viewers": 1756000,
-      "share": 13.5
-    },
-    "elHormiguero": {
-      "viewers": 2207000,
-      "share": 16.9
-    }
-  },
-  {
-    "date": "2025-01-23",
-    "laRevuelta": {
-      "viewers": 1804000,
-      "share": 13.7
-    },
-    "elHormiguero": {
-      "viewers": 2113000,
-      "share": 16.2
-    }
-  },
-  {
-    "date": "2025-01-27",
-    "laRevuelta": {
-      "viewers": 2110000,
-      "share": 15.1
-    },
-    "elHormiguero": {
-      "viewers": 2294000,
-      "share": 16.5
-    }
-  },
-  {
-    "date": "2025-01-28",
-    "laRevuelta": {
-      "viewers": 2235000,
-      "share": 16.4
-    },
-    "elHormiguero": {
-      "viewers": 1821000,
-      "share": 13.7
-    }
-  },
-  {
-    "date": "2025-01-29",
-    "laRevuelta": {
-      "viewers": 1754000,
-      "share": 13.1
-    },
-    "elHormiguero": {
-      "viewers": 1769000,
-      "share": 13.2
-    }
-  },
-  {
-    "date": "2025-01-30",
-    "laRevuelta": {
-      "viewers": 1827000,
-      "share": 13.7
-    },
-    "elHormiguero": {
-      "viewers": 2084000,
-      "share": 16
-    }
-  },
-  {
-    "date": "2025-02-03",
-    "laRevuelta": {
-      "viewers": 1802000,
+      "viewers": 1812000,
       "share": 13.4
     },
     "elHormiguero": {
-      "viewers": 1955000,
-      "share": 14.4
+      "viewers": 2098000,
+      "share": 15.5
     }
   },
   {
-    "date": "2025-02-04",
+    "date": "2025-03-13",
     "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 2160000,
-      "share": 16.5
-    }
-  },
-  {
-    "date": "2025-02-05",
-    "laRevuelta": {
-      "viewers": 1698000,
-      "share": 12.8
-    },
-    "elHormiguero": {
-      "viewers": 2094000,
-      "share": 15.7
-    }
-  },
-  {
-    "date": "2025-02-06",
-    "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 1987000,
-      "share": 14.9
-    }
-  },
-  {
-    "date": "2025-02-10",
-    "laRevuelta": {
-      "viewers": 1976000,
-      "share": 14.3
-    },
-    "elHormiguero": {
-      "viewers": 1905000,
-      "share": 13.7
-    }
-  },
-  {
-    "date": "2025-02-11",
-    "laRevuelta": {
-      "viewers": 1606000,
-      "share": 11.9
-    },
-    "elHormiguero": {
-      "viewers": 2083000,
-      "share": 15.6
-    }
-  },
-  {
-    "date": "2025-02-12",
-    "laRevuelta": {
-      "viewers": 1844000,
-      "share": 13.8
-    },
-    "elHormiguero": {
-      "viewers": 2115000,
-      "share": 15.7
-    }
-  },
-  {
-    "date": "2025-02-13",
-    "laRevuelta": {
-      "viewers": 1891000,
-      "share": 14.1
-    },
-    "elHormiguero": {
-      "viewers": 2482000,
-      "share": 18.7
-    }
-  },
-  {
-    "date": "2025-02-17",
-    "laRevuelta": {
-      "viewers": 1625000,
-      "share": 11.6
-    },
-    "elHormiguero": {
-      "viewers": 1819000,
-      "share": 13
-    }
-  },
-  {
-    "date": "2025-02-18",
-    "laRevuelta": {
-      "viewers": 1867000,
-      "share": 14.1
-    },
-    "elHormiguero": {
-      "viewers": 2065000,
-      "share": 15.7
-    }
-  },
-  {
-    "date": "2025-02-19",
-    "laRevuelta": {
-      "viewers": 1769000,
-      "share": 12.8
-    },
-    "elHormiguero": {
-      "viewers": 1871000,
-      "share": 13.6
-    }
-  },
-  {
-    "date": "2025-02-20",
-    "laRevuelta": {
-      "viewers": 1871000,
-      "share": 14.5
-    },
-    "elHormiguero": {
-      "viewers": 1941000,
-      "share": 15.1
-    }
-  },
-  {
-    "date": "2025-02-24",
-    "laRevuelta": {
-      "viewers": 1897000,
-      "share": 13.7
-    },
-    "elHormiguero": {
-      "viewers": 1825000,
-      "share": 13.3
-    }
-  },
-  {
-    "date": "2025-02-25",
-    "laRevuelta": {
-      "viewers": 1170000,
-      "share": 14.9
-    },
-    "elHormiguero": {
-      "viewers": 1805000,
-      "share": 12.4
-    }
-  },
-  {
-    "date": "2025-02-26",
-    "laRevuelta": {
-      "viewers": 0,
-      "share": 0
-    },
-    "elHormiguero": {
-      "viewers": 1856000,
-      "share": 12.9
-    }
-  },
-  {
-    "date": "2025-02-27",
-    "laRevuelta": {
-      "viewers": 1667000,
-      "share": 13.1
-    },
-    "elHormiguero": {
-      "viewers": 2196000,
-      "share": 17.4
-    }
-  },
-  {
-    "date": "2025-03-03",
-    "laRevuelta": {
-      "viewers": 1692000,
+      "viewers": 1749000,
       "share": 12.5
     },
     "elHormiguero": {
-      "viewers": 1927000,
-      "share": 14
-    }
-  },
-  {
-    "date": "2025-03-04",
-    "laRevuelta": {
-      "viewers": 1475000,
-      "share": 11.1
-    },
-    "elHormiguero": {
-      "viewers": 1768000,
-      "share": 13.4
-    }
-  },
-  {
-    "date": "2025-03-05",
-    "laRevuelta": {
-      "viewers": 1519000,
-      "share": 11.1
-    },
-    "elHormiguero": {
-      "viewers": 1865000,
-      "share": 13.7
-    }
-  },
-  {
-    "date": "2025-03-06",
-    "laRevuelta": {
-      "viewers": 1727000,
-      "share": 13
-    },
-    "elHormiguero": {
-      "viewers": 1896000,
-      "share": 14.3
-    }
-  },
-  {
-    "date": "2025-03-10",
-    "laRevuelta": {
-      "viewers": 1598000,
-      "share": 11.3
-    },
-    "elHormiguero": {
-      "viewers": 2064000,
-      "share": 14.6
-    }
-  },
-  {
-    "date": "2025-03-11",
-    "laRevuelta": {
-      "viewers": 1665000,
-      "share": 12.2
-    },
-    "elHormiguero": {
-      "viewers": 1940000,
-      "share": 14.2
+      "viewers": 2016000,
+      "share": 14.4
     }
   },
   {
@@ -1177,14 +55,1169 @@
     }
   },
   {
-    "date": "2025-03-13",
+    "date": "2025-03-11",
     "laRevuelta": {
-      "viewers": 1749000,
+      "viewers": 1665000,
+      "share": 12.2
+    },
+    "elHormiguero": {
+      "viewers": 1940000,
+      "share": 14.2
+    }
+  },
+  {
+    "date": "2025-03-10",
+    "laRevuelta": {
+      "viewers": 1598000,
+      "share": 11.3
+    },
+    "elHormiguero": {
+      "viewers": 2064000,
+      "share": 14.6
+    }
+  },
+  {
+    "date": "2025-03-06",
+    "laRevuelta": {
+      "viewers": 1727000,
+      "share": 13
+    },
+    "elHormiguero": {
+      "viewers": 1896000,
+      "share": 14.3
+    }
+  },
+  {
+    "date": "2025-03-05",
+    "laRevuelta": {
+      "viewers": 1519000,
+      "share": 11.1
+    },
+    "elHormiguero": {
+      "viewers": 1865000,
+      "share": 13.7
+    }
+  },
+  {
+    "date": "2025-03-04",
+    "laRevuelta": {
+      "viewers": 1475000,
+      "share": 11.1
+    },
+    "elHormiguero": {
+      "viewers": 1768000,
+      "share": 13.4
+    }
+  },
+  {
+    "date": "2025-03-03",
+    "laRevuelta": {
+      "viewers": 1692000,
       "share": 12.5
     },
     "elHormiguero": {
-      "viewers": 2016000,
+      "viewers": 1927000,
+      "share": 14
+    }
+  },
+  {
+    "date": "2025-02-27",
+    "laRevuelta": {
+      "viewers": 1667000,
+      "share": 13.1
+    },
+    "elHormiguero": {
+      "viewers": 2196000,
+      "share": 17.4
+    }
+  },
+  {
+    "date": "2025-02-26",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 1856000,
+      "share": 12.9
+    }
+  },
+  {
+    "date": "2025-02-25",
+    "laRevuelta": {
+      "viewers": 1170000,
+      "share": 14.9
+    },
+    "elHormiguero": {
+      "viewers": 1805000,
+      "share": 12.4
+    }
+  },
+  {
+    "date": "2025-02-24",
+    "laRevuelta": {
+      "viewers": 1897000,
+      "share": 13.7
+    },
+    "elHormiguero": {
+      "viewers": 1825000,
+      "share": 13.3
+    }
+  },
+  {
+    "date": "2025-02-20",
+    "laRevuelta": {
+      "viewers": 1871000,
+      "share": 14.5
+    },
+    "elHormiguero": {
+      "viewers": 1941000,
+      "share": 15.1
+    }
+  },
+  {
+    "date": "2025-02-19",
+    "laRevuelta": {
+      "viewers": 1769000,
+      "share": 12.8
+    },
+    "elHormiguero": {
+      "viewers": 1871000,
+      "share": 13.6
+    }
+  },
+  {
+    "date": "2025-02-18",
+    "laRevuelta": {
+      "viewers": 1867000,
+      "share": 14.1
+    },
+    "elHormiguero": {
+      "viewers": 2065000,
+      "share": 15.7
+    }
+  },
+  {
+    "date": "2025-02-17",
+    "laRevuelta": {
+      "viewers": 1625000,
+      "share": 11.6
+    },
+    "elHormiguero": {
+      "viewers": 1819000,
+      "share": 13
+    }
+  },
+  {
+    "date": "2025-02-13",
+    "laRevuelta": {
+      "viewers": 1891000,
+      "share": 14.1
+    },
+    "elHormiguero": {
+      "viewers": 2482000,
+      "share": 18.7
+    }
+  },
+  {
+    "date": "2025-02-12",
+    "laRevuelta": {
+      "viewers": 1844000,
+      "share": 13.8
+    },
+    "elHormiguero": {
+      "viewers": 2115000,
+      "share": 15.7
+    }
+  },
+  {
+    "date": "2025-02-11",
+    "laRevuelta": {
+      "viewers": 1606000,
+      "share": 11.9
+    },
+    "elHormiguero": {
+      "viewers": 2083000,
+      "share": 15.6
+    }
+  },
+  {
+    "date": "2025-02-10",
+    "laRevuelta": {
+      "viewers": 1976000,
+      "share": 14.3
+    },
+    "elHormiguero": {
+      "viewers": 1905000,
+      "share": 13.7
+    }
+  },
+  {
+    "date": "2025-02-06",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 1987000,
+      "share": 14.9
+    }
+  },
+  {
+    "date": "2025-02-05",
+    "laRevuelta": {
+      "viewers": 1698000,
+      "share": 12.8
+    },
+    "elHormiguero": {
+      "viewers": 2094000,
+      "share": 15.7
+    }
+  },
+  {
+    "date": "2025-02-04",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 2160000,
+      "share": 16.5
+    }
+  },
+  {
+    "date": "2025-02-03",
+    "laRevuelta": {
+      "viewers": 1802000,
+      "share": 13.4
+    },
+    "elHormiguero": {
+      "viewers": 1955000,
       "share": 14.4
+    }
+  },
+  {
+    "date": "2025-01-30",
+    "laRevuelta": {
+      "viewers": 1827000,
+      "share": 13.7
+    },
+    "elHormiguero": {
+      "viewers": 2084000,
+      "share": 16
+    }
+  },
+  {
+    "date": "2025-01-29",
+    "laRevuelta": {
+      "viewers": 1754000,
+      "share": 13.1
+    },
+    "elHormiguero": {
+      "viewers": 1769000,
+      "share": 13.2
+    }
+  },
+  {
+    "date": "2025-01-28",
+    "laRevuelta": {
+      "viewers": 2235000,
+      "share": 16.4
+    },
+    "elHormiguero": {
+      "viewers": 1821000,
+      "share": 13.7
+    }
+  },
+  {
+    "date": "2025-01-27",
+    "laRevuelta": {
+      "viewers": 2110000,
+      "share": 15.1
+    },
+    "elHormiguero": {
+      "viewers": 2294000,
+      "share": 16.5
+    }
+  },
+  {
+    "date": "2025-01-23",
+    "laRevuelta": {
+      "viewers": 1804000,
+      "share": 13.7
+    },
+    "elHormiguero": {
+      "viewers": 2113000,
+      "share": 16.2
+    }
+  },
+  {
+    "date": "2025-01-22",
+    "laRevuelta": {
+      "viewers": 1756000,
+      "share": 13.5
+    },
+    "elHormiguero": {
+      "viewers": 2207000,
+      "share": 16.9
+    }
+  },
+  {
+    "date": "2025-01-21",
+    "laRevuelta": {
+      "viewers": 1683000,
+      "share": 12.8
+    },
+    "elHormiguero": {
+      "viewers": 1954000,
+      "share": 14.9
+    }
+  },
+  {
+    "date": "2025-01-20",
+    "laRevuelta": {
+      "viewers": 1924000,
+      "share": 14.1
+    },
+    "elHormiguero": {
+      "viewers": 1914000,
+      "share": 13.9
+    }
+  },
+  {
+    "date": "2025-01-16",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 1801000,
+      "share": 13.4
+    }
+  },
+  {
+    "date": "2025-01-15",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 2070000,
+      "share": 16
+    }
+  },
+  {
+    "date": "2025-01-14",
+    "laRevuelta": {
+      "viewers": 2084000,
+      "share": 15.7
+    },
+    "elHormiguero": {
+      "viewers": 1918000,
+      "share": 14.5
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "laRevuelta": {
+      "viewers": 2157000,
+      "share": 15.5
+    },
+    "elHormiguero": {
+      "viewers": 2284000,
+      "share": 16.4
+    }
+  },
+  {
+    "date": "2025-01-09",
+    "laRevuelta": {
+      "viewers": 2012000,
+      "share": 15.3
+    },
+    "elHormiguero": {
+      "viewers": 2061000,
+      "share": 15.6
+    }
+  },
+  {
+    "date": "2025-01-08",
+    "laRevuelta": {
+      "viewers": 1892000,
+      "share": 14.5
+    },
+    "elHormiguero": {
+      "viewers": 1881000,
+      "share": 14.4
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "laRevuelta": {
+      "viewers": 2387000,
+      "share": 17.4
+    },
+    "elHormiguero": {
+      "viewers": 1810000,
+      "share": 13.2
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "laRevuelta": {
+      "viewers": 1244000,
+      "share": 9.4
+    },
+    "elHormiguero": {
+      "viewers": 1209000,
+      "share": 9.1
+    }
+  },
+  {
+    "date": "2025-01-02",
+    "laRevuelta": {
+      "viewers": 1314000,
+      "share": 10.5
+    },
+    "elHormiguero": {
+      "viewers": 1398000,
+      "share": 11.1
+    }
+  },
+  {
+    "date": "2025-01-01",
+    "laRevuelta": {
+      "viewers": 1324000,
+      "share": 10.4
+    },
+    "elHormiguero": {
+      "viewers": 1234000,
+      "share": 9.8
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 0,
+      "share": 0
+    }
+  },
+  {
+    "date": "2024-12-30",
+    "laRevuelta": {
+      "viewers": 1337000,
+      "share": 11.1
+    },
+    "elHormiguero": {
+      "viewers": 1334000,
+      "share": 11
+    }
+  },
+  {
+    "date": "2024-12-26",
+    "laRevuelta": {
+      "viewers": 1139000,
+      "share": 9.4
+    },
+    "elHormiguero": {
+      "viewers": 1251000,
+      "share": 10.3
+    }
+  },
+  {
+    "date": "2024-12-25",
+    "laRevuelta": {
+      "viewers": 1230000,
+      "share": 10.1
+    },
+    "elHormiguero": {
+      "viewers": 1242000,
+      "share": 10.2
+    }
+  },
+  {
+    "date": "2024-12-24",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 0,
+      "share": 0
+    }
+  },
+  {
+    "date": "2024-12-23",
+    "laRevuelta": {
+      "viewers": 1395000,
+      "share": 11.6
+    },
+    "elHormiguero": {
+      "viewers": 1468000,
+      "share": 12.2
+    }
+  },
+  {
+    "date": "2024-12-19",
+    "laRevuelta": {
+      "viewers": 1929000,
+      "share": 15.1
+    },
+    "elHormiguero": {
+      "viewers": 1960000,
+      "share": 15.4
+    }
+  },
+  {
+    "date": "2024-12-18",
+    "laRevuelta": {
+      "viewers": 2083000,
+      "share": 16.5
+    },
+    "elHormiguero": {
+      "viewers": 1912000,
+      "share": 15.1
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "laRevuelta": {
+      "viewers": 2009000,
+      "share": 15.2
+    },
+    "elHormiguero": {
+      "viewers": 2055000,
+      "share": 15.8
+    }
+  },
+  {
+    "date": "2024-12-16",
+    "laRevuelta": {
+      "viewers": 1957000,
+      "share": 15.2
+    },
+    "elHormiguero": {
+      "viewers": 1969000,
+      "share": 15.3
+    }
+  },
+  {
+    "date": "2024-12-12",
+    "laRevuelta": {
+      "viewers": 2028000,
+      "share": 15.2
+    },
+    "elHormiguero": {
+      "viewers": 2254000,
+      "share": 17
+    }
+  },
+  {
+    "date": "2024-12-11",
+    "laRevuelta": {
+      "viewers": 1979000,
+      "share": 14.8
+    },
+    "elHormiguero": {
+      "viewers": 2157000,
+      "share": 16.1
+    }
+  },
+  {
+    "date": "2024-12-10",
+    "laRevuelta": {
+      "viewers": 2124000,
+      "share": 15.7
+    },
+    "elHormiguero": {
+      "viewers": 1599000,
+      "share": 11.9
+    }
+  },
+  {
+    "date": "2024-12-09",
+    "laRevuelta": {
+      "viewers": 2077000,
+      "share": 15.3
+    },
+    "elHormiguero": {
+      "viewers": 1845000,
+      "share": 13.6
+    }
+  },
+  {
+    "date": "2024-12-05",
+    "laRevuelta": {
+      "viewers": 1605000,
+      "share": 13.2
+    },
+    "elHormiguero": {
+      "viewers": 1743000,
+      "share": 14.6
+    }
+  },
+  {
+    "date": "2024-12-04",
+    "laRevuelta": {
+      "viewers": 1998000,
+      "share": 14.8
+    },
+    "elHormiguero": {
+      "viewers": 1875000,
+      "share": 13.9
+    }
+  },
+  {
+    "date": "2024-12-03",
+    "laRevuelta": {
+      "viewers": 1413000,
+      "share": 14.3
+    },
+    "elHormiguero": {
+      "viewers": 2153000,
+      "share": 16.4
+    }
+  },
+  {
+    "date": "2024-12-02",
+    "laRevuelta": {
+      "viewers": 2289000,
+      "share": 16.7
+    },
+    "elHormiguero": {
+      "viewers": 2032000,
+      "share": 15.2
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "laRevuelta": {
+      "viewers": 2266000,
+      "share": 16.7
+    },
+    "elHormiguero": {
+      "viewers": 1984000,
+      "share": 15.2
+    }
+  },
+  {
+    "date": "2024-11-27",
+    "laRevuelta": {
+      "viewers": 2220000,
+      "share": 16.4
+    },
+    "elHormiguero": {
+      "viewers": 1816000,
+      "share": 13.5
+    }
+  },
+  {
+    "date": "2024-11-26",
+    "laRevuelta": {
+      "viewers": 2269000,
+      "share": 16.8
+    },
+    "elHormiguero": {
+      "viewers": 2094000,
+      "share": 16
+    }
+  },
+  {
+    "date": "2024-11-25",
+    "laRevuelta": {
+      "viewers": 2457000,
+      "share": 17.8
+    },
+    "elHormiguero": {
+      "viewers": 2142000,
+      "share": 15.4
+    }
+  },
+  {
+    "date": "2024-11-21",
+    "laRevuelta": {
+      "viewers": 1778000,
+      "share": 13.6
+    },
+    "elHormiguero": {
+      "viewers": 1973000,
+      "share": 15.5
+    }
+  },
+  {
+    "date": "2024-11-20",
+    "laRevuelta": {
+      "viewers": 1906000,
+      "share": 14.5
+    },
+    "elHormiguero": {
+      "viewers": 2082000,
+      "share": 16
+    }
+  },
+  {
+    "date": "2024-11-19",
+    "laRevuelta": {
+      "viewers": 1863000,
+      "share": 13.8
+    },
+    "elHormiguero": {
+      "viewers": 2224000,
+      "share": 16.8
+    }
+  },
+  {
+    "date": "2024-11-18",
+    "laRevuelta": {
+      "viewers": 1644000,
+      "share": 16.3
+    },
+    "elHormiguero": {
+      "viewers": 2053000,
+      "share": 15.2
+    }
+  },
+  {
+    "date": "2024-11-14",
+    "laRevuelta": {
+      "viewers": 1947000,
+      "share": 14.4
+    },
+    "elHormiguero": {
+      "viewers": 1947000,
+      "share": 14.9
+    }
+  },
+  {
+    "date": "2024-11-13",
+    "laRevuelta": {
+      "viewers": 2152000,
+      "share": 15.8
+    },
+    "elHormiguero": {
+      "viewers": 2225000,
+      "share": 16.4
+    }
+  },
+  {
+    "date": "2024-11-12",
+    "laRevuelta": {
+      "viewers": 2127000,
+      "share": 15.5
+    },
+    "elHormiguero": {
+      "viewers": 1874000,
+      "share": 14
+    }
+  },
+  {
+    "date": "2024-11-11",
+    "laRevuelta": {
+      "viewers": 2000000,
+      "share": 14.6
+    },
+    "elHormiguero": {
+      "viewers": 2375000,
+      "share": 17.9
+    }
+  },
+  {
+    "date": "2024-11-07",
+    "laRevuelta": {
+      "viewers": 1990000,
+      "share": 14.6
+    },
+    "elHormiguero": {
+      "viewers": 1989000,
+      "share": 14.9
+    }
+  },
+  {
+    "date": "2024-11-06",
+    "laRevuelta": {
+      "viewers": 1981000,
+      "share": 14.9
+    },
+    "elHormiguero": {
+      "viewers": 1665000,
+      "share": 12.6
+    }
+  },
+  {
+    "date": "2024-11-05",
+    "laRevuelta": {
+      "viewers": 1858000,
+      "share": 13.3
+    },
+    "elHormiguero": {
+      "viewers": 1920000,
+      "share": 14
+    }
+  },
+  {
+    "date": "2024-11-04",
+    "laRevuelta": {
+      "viewers": 2060000,
+      "share": 14.2
+    },
+    "elHormiguero": {
+      "viewers": 2708000,
+      "share": 19.2
+    }
+  },
+  {
+    "date": "2024-10-31",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 1972000,
+      "share": 16.9
+    }
+  },
+  {
+    "date": "2024-10-30",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 0,
+      "share": 0
+    }
+  },
+  {
+    "date": "2024-10-29",
+    "laRevuelta": {
+      "viewers": 2038000,
+      "share": 15
+    },
+    "elHormiguero": {
+      "viewers": 1806000,
+      "share": 13.6
+    }
+  },
+  {
+    "date": "2024-10-28",
+    "laRevuelta": {
+      "viewers": 2074000,
+      "share": 15.4
+    },
+    "elHormiguero": {
+      "viewers": 1841000,
+      "share": 14.1
+    }
+  },
+  {
+    "date": "2024-10-24",
+    "laRevuelta": {
+      "viewers": 1927000,
+      "share": 14.5
+    },
+    "elHormiguero": {
+      "viewers": 2014000,
+      "share": 15.5
+    }
+  },
+  {
+    "date": "2024-10-23",
+    "laRevuelta": {
+      "viewers": 1785000,
+      "share": 13.7
+    },
+    "elHormiguero": {
+      "viewers": 1726000,
+      "share": 13.2
+    }
+  },
+  {
+    "date": "2024-10-22",
+    "laRevuelta": {
+      "viewers": 1993000,
+      "share": 14.7
+    },
+    "elHormiguero": {
+      "viewers": 1683000,
+      "share": 12.5
+    }
+  },
+  {
+    "date": "2024-10-21",
+    "laRevuelta": {
+      "viewers": 1996000,
+      "share": 15.2
+    },
+    "elHormiguero": {
+      "viewers": 1821000,
+      "share": 14.1
+    }
+  },
+  {
+    "date": "2024-10-17",
+    "laRevuelta": {
+      "viewers": 1995000,
+      "share": 15.4
+    },
+    "elHormiguero": {
+      "viewers": 1849000,
+      "share": 14.5
+    }
+  },
+  {
+    "date": "2024-10-16",
+    "laRevuelta": {
+      "viewers": 2209000,
+      "share": 16.6
+    },
+    "elHormiguero": {
+      "viewers": 1886000,
+      "share": 14.3
+    }
+  },
+  {
+    "date": "2024-10-15",
+    "laRevuelta": {
+      "viewers": 1746000,
+      "share": 16.3
+    },
+    "elHormiguero": {
+      "viewers": 1975000,
+      "share": 14.7
+    }
+  },
+  {
+    "date": "2024-10-14",
+    "laRevuelta": {
+      "viewers": 2156000,
+      "share": 16.1
+    },
+    "elHormiguero": {
+      "viewers": 1916000,
+      "share": 14.6
+    }
+  },
+  {
+    "date": "2024-10-10",
+    "laRevuelta": {
+      "viewers": 2286000,
+      "share": 17.3
+    },
+    "elHormiguero": {
+      "viewers": 2066000,
+      "share": 15.8
+    }
+  },
+  {
+    "date": "2024-10-09",
+    "laRevuelta": {
+      "viewers": 2087000,
+      "share": 16
+    },
+    "elHormiguero": {
+      "viewers": 2036000,
+      "share": 15.8
+    }
+  },
+  {
+    "date": "2024-10-08",
+    "laRevuelta": {
+      "viewers": 1957000,
+      "share": 14.9
+    },
+    "elHormiguero": {
+      "viewers": 1839000,
+      "share": 14.3
+    }
+  },
+  {
+    "date": "2024-10-07",
+    "laRevuelta": {
+      "viewers": 2122000,
+      "share": 15.8
+    },
+    "elHormiguero": {
+      "viewers": 2029000,
+      "share": 15.5
+    }
+  },
+  {
+    "date": "2024-10-03",
+    "laRevuelta": {
+      "viewers": 1914000,
+      "share": 15
+    },
+    "elHormiguero": {
+      "viewers": 2028000,
+      "share": 16.4
+    }
+  },
+  {
+    "date": "2024-10-02",
+    "laRevuelta": {
+      "viewers": 2355000,
+      "share": 17.7
+    },
+    "elHormiguero": {
+      "viewers": 1756000,
+      "share": 13.6
+    }
+  },
+  {
+    "date": "2024-10-01",
+    "laRevuelta": {
+      "viewers": 1937000,
+      "share": 14.5
+    },
+    "elHormiguero": {
+      "viewers": 2054000,
+      "share": 15.6
+    }
+  },
+  {
+    "date": "2024-09-30",
+    "laRevuelta": {
+      "viewers": 2113000,
+      "share": 15.9
+    },
+    "elHormiguero": {
+      "viewers": 2003000,
+      "share": 15.4
+    }
+  },
+  {
+    "date": "2024-09-26",
+    "laRevuelta": {
+      "viewers": 2065000,
+      "share": 15.9
+    },
+    "elHormiguero": {
+      "viewers": 2069000,
+      "share": 16.3
+    }
+  },
+  {
+    "date": "2024-09-25",
+    "laRevuelta": {
+      "viewers": 2113000,
+      "share": 16.1
+    },
+    "elHormiguero": {
+      "viewers": 2093000,
+      "share": 16.2
+    }
+  },
+  {
+    "date": "2024-09-24",
+    "laRevuelta": {
+      "viewers": 2049000,
+      "share": 15.6
+    },
+    "elHormiguero": {
+      "viewers": 1710000,
+      "share": 13.3
+    }
+  },
+  {
+    "date": "2024-09-23",
+    "laRevuelta": {
+      "viewers": 2158000,
+      "share": 16.3
+    },
+    "elHormiguero": {
+      "viewers": 2373000,
+      "share": 18.1
+    }
+  },
+  {
+    "date": "2024-09-19",
+    "laRevuelta": {
+      "viewers": 2016000,
+      "share": 15.6
+    },
+    "elHormiguero": {
+      "viewers": 2117000,
+      "share": 16.7
+    }
+  },
+  {
+    "date": "2024-09-18",
+    "laRevuelta": {
+      "viewers": 2112000,
+      "share": 16.5
+    },
+    "elHormiguero": {
+      "viewers": 2191000,
+      "share": 17.1
+    }
+  },
+  {
+    "date": "2024-09-17",
+    "laRevuelta": {
+      "viewers": 2155000,
+      "share": 16.8
+    },
+    "elHormiguero": {
+      "viewers": 2075000,
+      "share": 16.6
+    }
+  },
+  {
+    "date": "2024-09-16",
+    "laRevuelta": {
+      "viewers": 2591000,
+      "share": 19.5
+    },
+    "elHormiguero": {
+      "viewers": 2215000,
+      "share": 17
+    }
+  },
+  {
+    "date": "2024-09-12",
+    "laRevuelta": {
+      "viewers": 2601000,
+      "share": 19.2
+    },
+    "elHormiguero": {
+      "viewers": 3107000,
+      "share": 23.3
+    }
+  },
+  {
+    "date": "2024-09-11",
+    "laRevuelta": {
+      "viewers": 2548000,
+      "share": 19.9
+    },
+    "elHormiguero": {
+      "viewers": 2257000,
+      "share": 18.2
+    }
+  },
+  {
+    "date": "2024-09-10",
+    "laRevuelta": {
+      "viewers": 2127000,
+      "share": 17.4
+    },
+    "elHormiguero": {
+      "viewers": 2103000,
+      "share": 17.5
+    }
+  },
+  {
+    "date": "2024-09-09",
+    "laRevuelta": {
+      "viewers": 2152000,
+      "share": 17.1
+    },
+    "elHormiguero": {
+      "viewers": 2893000,
+      "share": 23
     }
   }
 ]
