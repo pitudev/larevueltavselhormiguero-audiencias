@@ -1,5 +1,27 @@
 [
   {
+    "date": "2025-11-03",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 0,
+      "share": 0
+    }
+  },
+  {
+    "date": "2025-10-30",
+    "laRevuelta": {
+      "viewers": 1406000,
+      "share": 11.8
+    },
+    "elHormiguero": {
+      "viewers": 1868000,
+      "share": 15.4
+    }
+  },
+  {
     "date": "2025-10-29",
     "laRevuelta": {
       "viewers": 0,
