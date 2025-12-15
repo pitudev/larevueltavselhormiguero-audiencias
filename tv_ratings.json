@@ -1,5 +1,49 @@
 [
   {
+    "date": "2025-12-15",
+    "laRevuelta": {
+      "viewers": 0,
+      "share": 0
+    },
+    "elHormiguero": {
+      "viewers": 0,
+      "share": 0
+    }
+  },
+  {
+    "date": "2025-12-11",
+    "laRevuelta": {
+      "viewers": 1503000,
+      "share": 12.3
+    },
+    "elHormiguero": {
+      "viewers": 2039000,
+      "share": 16.9
+    }
+  },
+  {
+    "date": "2025-12-10",
+    "laRevuelta": {
+      "viewers": 1416000,
+      "share": 10.7
+    },
+    "elHormiguero": {
+      "viewers": 1740000,
+      "share": 13.1
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "laRevuelta": {
+      "viewers": 1582000,
+      "share": 12.5
+    },
+    "elHormiguero": {
+      "viewers": 1871000,
+      "share": 14.7
+    }
+  },
+  {
     "date": "2025-12-08",
     "laRevuelta": {
       "viewers": 0,
